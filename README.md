@@ -10,6 +10,8 @@ KcNDVI->Kc values in each development stage
 
 KcTime->duration of each development stage
 
+Python version:
+3.9
 
 #Methodology for each notebook:
 
