@@ -10,7 +10,7 @@ KcNDVI->Kc values in each development stage
 
 KcTime->duration of each development stage
 
-dfMilho->Time series of maize crop
+dfMILHO->Time series of maize crop
 
 Python version:
 3.9
